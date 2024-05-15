@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yogesh</h1>
-<h3 align="center">A passionate fullstack freelance developer from India</h3>
+<h3 align="center">A passionate fullstack freelance developer from India.</h3>
+<h4 align="center">Previously I worked in multiple MNCs(Bosch, Harman, Tridonic GmbH) as a Senior Embedded Software engineer.</h4>
 
 - 🔭 I’m currently working on [lens view](https://github.com/codebyyogesh/lens_view)
 
