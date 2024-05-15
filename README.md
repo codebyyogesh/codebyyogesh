@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Golang, Nextjs**
 
-- 📫 How to reach me **yogidk@gmail.com**
+- 📫 How to reach me **yogeshcodes@zohomail.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
