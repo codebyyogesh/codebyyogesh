@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Applications using AI and blockchain**
 
-- 👨‍💻 All of my projects are available at [https://github.com/codebyyogesh/](https://github.com/codebyyogesh/)
+- 👨‍💻 All of my projects are available at [https://github.com/codebyyogesh?tab=repositories](https://github.com/codebyyogesh?tab=repositories)
 
 - 📝 I regularly write articles on [https://blog.finxter.com/author/yogeshkulkarni/](https://blog.finxter.com/author/yogeshkulkarni/)
 
