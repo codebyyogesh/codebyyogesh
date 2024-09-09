@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [https://blog.finxter.com/author/yogeshkulkarni/](https://blog.finxter.com/author/yogeshkulkarni/)
 
-- 💬 Ask me about **Golang, Nextjs**
+- 💬 Ask me about **Golang, Solidity and Reactjs**
 
 - 📫 How to reach me **yogeshcodes@zohomail.in**
 
